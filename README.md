@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katzengott 
+- 👋 Hi, I’m @Katzengott / Rubin
 - 👀 I’m interested in coding random stuff
 - 🌱 I am currently learning and improving my JavaScript and Python skills
 - 💞️ I’m looking to collaborate on mineflayer. Why? - Because I admire it 🙀
