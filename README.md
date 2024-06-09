@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding random stuff
 - 🌱 I am currently learning and improving my JavaScript and Python skills
 - 💞️ I’m looking to collaborate on mineflayer. Why? - Because I admire it 🙀
-- 📃 Currently working on my Selling Bot for Landania.net
+- 📃 Currently working on my Selling Bot for Landania.net and some other projects.
 - 📫 How to reach me:
-        Discord: Katzengott#4849 or Katze#1783
+        Discord: edelkatze
 
 - 💡Follow me on YouTube https://www.youtube.com/channel/UCYb2CTN-wvch9qQraj-nxZw
 
