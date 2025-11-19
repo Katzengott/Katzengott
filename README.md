@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding random stuff
 - 🌱 I am currently learning and improving my JavaScript and Python skills
 - 💞️ I’m looking to collaborate on mineflayer. Why? - Because I admire it 🙀
-- 📃 Currently working on my Selling Bot for Landania.net and some other projects.
+- 📃 Currently working on my ROV and some other projects.
 - 📫 How to reach me:
         Discord: edelkatze
 
